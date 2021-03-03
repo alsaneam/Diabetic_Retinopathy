@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 18 00:03:46 2020
 
-@author: Dr. M Alauthman
+@author: Dr. Majed Alsanea
 """
 
 from sklearn.ensemble import RandomForestClassifier
